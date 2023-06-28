@@ -1,4 +1,4 @@
-# Captcha Generator
+# Captcha Generator  [Click here](https://mayuryalij.github.io/Captcha-Generator/).
 
 This is a simple Captcha Generator web application that generates a random captcha and allows users to enter their response for validation. The application is built using HTML, CSS, and JavaScript.
 
